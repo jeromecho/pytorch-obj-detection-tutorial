@@ -1,0 +1,12 @@
+.pth
+**/*.pth
+.env
+bin/
+include/
+lib/
+**/*.jpg
+**/__pycache__/
+**/*.png
+.png
+**/*.txt
+.txt
